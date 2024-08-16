@@ -1,0 +1,108 @@
+const products = [
+  {
+    name: "Classic Crewneck Sweater",
+    image: "/images/Colored_jacket.jpeg",
+    description:
+      "A timeless staple for any wardrobe, this classic crewneck sweater is crafted from soft, premium wool. Its versatile design features a ribbed neckline, cuffs, and hem, offering both comfort and style. Perfect for layering over shirts or under jackets, this sweater provides a polished look whether you’re heading to the office or enjoying a weekend stroll.",
+    brand: "Kasual Tricot Fashion",
+    category: "Clothes",
+    price: 150.0,
+    countInStock: 10,
+    rating: 4.5,
+    numReviews: 12,
+    size: " Sm,medium,Lg,xl",
+  },
+  {
+    name: "Cozy Cable Knit Cardigan",
+    image: "/images/color-summer.jpeg",
+    description:
+      "Wrap yourself in warmth with this cozy cable knit cardigan. Designed with intricate cable patterns and a button-down front, it combines texture with a touch of sophistication. The long sleeves and relaxed fit make it an ideal layering piece for cooler weather, adding a stylish and snug layer to any outfit.",
+    brand: "Kasual Tricot Fashion",
+    category: "Clothes",
+    price: 229.99,
+    countInStock: 7,
+    rating: 4.0,
+    numReviews: 8,
+    size: " Sm,medium,Lg,xl",
+  },
+  {
+    name: "Chic Turtleneck Pullover",
+    image: "/images/brow-sueter.jpeg",
+    description:
+      "Elevate your winter wardrobe with this chic turtleneck pullover. Made from a blend of cashmere and merino wool, it features a sleek turtleneck that provides extra warmth and a refined look. The slim fit and elegant design make it a perfect choice for both professional settings and casual outings.",
+    brand: "Kasual Tricot Fashion",
+    category: "Clothes",
+    price: 70.99,
+    countInStock: 5,
+    rating: 3,
+    numReviews: 12,
+    size: " Sm,medium,Lg,xl",
+  },
+  {
+    name: "Trendy Oversized Knit Sweater",
+    image: "/images/moleton.jpeg",
+    description:
+      "Embrace effortless style with this trendy oversized knit sweater. Its relaxed silhouette and drop-shoulder design offer a laid-back vibe, while the chunky knit texture ensures maximum comfort and warmth. Pair it with skinny jeans or leggings for a chic, casual look that’s perfect for lounging or running errands.",
+    brand: "Kasual Tricot Fashion",
+    category: "Clothes",
+    price: 99.99,
+    countInStock: 11,
+    rating: 5,
+    numReviews: 12,
+    size: " Sm,medium,Lg,xl",
+  },
+  {
+    name: "Feminine V-Neck Sweater Dress",
+    image: "/images/green_dress.jpeg",
+    description:
+      "This feminine v-neck sweater dress combines comfort with elegance. Crafted from a soft, lightweight knit, it features a flattering v-neckline and a cinched waist for a silhouette-enhancing fit. Ideal for transitioning from day to night, it can be dressed up with heels or kept casual with ankle boots.",
+    brand: "Kasual Tricot Fashion",
+    category: "Clothes",
+    price: 49.99,
+    countInStock: 7,
+    rating: 3.5,
+    numReviews: 10,
+    size: " Sm,medium,Lg,xl",
+  },
+  {
+    name: "Sporty Zip-Up Knit Jacket",
+    image: "/images/pink_dress.jpeg",
+    description:
+      "Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space",
+    brand: "Kasual Tricot Fashion",
+    category: "Clothes",
+    price: 25.79,
+    countInStock: 0,
+    rating: 4,
+    numReviews: 12,
+    size: " Sm,medium,Lg,xl",
+  },
+  {
+    name: "Elegant Ribbed Knit Jumper",
+    image: "/images/natureza-morta.jpg",
+    description:
+      "This elegant ribbed knit jumper is designed to offer both style and comfort. Featuring a fitted silhouette with a ribbed texture, it provides a sleek and flattering look. The lightweight yet warm fabric makes it versatile for layering throughout the seasons. The subtle scoop neckline adds a touch of sophistication, perfect for dressing up or down.",
+    brand: "Kasual Tricot Fashion",
+    category: "Clothes",
+    price: 80.0,
+    countInStock: 0,
+    rating: 4,
+    numReviews: 12,
+    size: " Sm,medium,Lg,xl",
+  },
+  {
+    name: "Sporty Zip-Up Knit Jacket",
+    image: "/images/pilhaRoupas.jpg",
+    description:
+      "Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space",
+    brand: "Kasual Tricot Fashion",
+    category: "Clothes",
+    price: 109.99,
+    countInStock: 0,
+    rating: 4,
+    numReviews: 12,
+    size: " Sm,medium,Lg,xl",
+  },
+];
+
+export default products;

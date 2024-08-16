@@ -1,0 +1,18 @@
+.carousel-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px; /* Adjust height as needed */
+  position: relative;
+}
+
+.carousel-item img {
+  max-height: 100%;
+  width: auto; /* Maintain aspect ratio */
+  object-fit: cover; /* Ensure image covers the container */
+}
+
+.carousel-caption {
+  bottom: 20px; /* Adjust caption positioning if needed */
+  text-align: center; /* Center-align text */
+}
